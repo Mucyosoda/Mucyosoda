@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I am Mucyo Claude
 
-<!--
-**Mucyosoda/Mucyosoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+const Mucyosoda = {
+  Current: "Full Student at Microverse,
+  currently-code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS, Material UI],
+  challenge: "I am honing my React skills",
+  funFacts: ['I have 2+ years of remote work experience with devs 
+  from all over the world']
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
